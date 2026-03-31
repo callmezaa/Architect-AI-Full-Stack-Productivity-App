@@ -1,0 +1,131 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "save": "Save",
+    "cancel": "Cancel",
+    "update": "Update",
+    "submit": "Submit",
+    "confirm": "Confirm",
+    "success": "Success!"
+  },
+  "auth": {
+    "welcomeBack": "Welcome Back",
+    "loginSubtitle": "Enter your details to access your dashboard.",
+    "emailLabel": "Email address",
+    "passwordLabel": "Password",
+    "forgotPassword": "Forgot Password?",
+    "signIn": "Sign In",
+    "noAccount": "Don't have an account?",
+    "createOne": "Create one",
+    "createAccount": "Create Account",
+    "registerSubtitle": "Join the elite productivity circle.",
+    "fullName": "Full Name",
+    "signUp": "Sign Up",
+    "haveAccount": "Already have an account?",
+    "logIn": "Log In",
+    "fieldsRequired": "Please fill in all fields"
+  },
+  "onboarding": {
+    "slides": [
+      {
+        "title": "Organize Your Mind",
+        "description": "Capture tasks and notes instantly. Keep your life structured without the cognitive overload."
+      },
+      {
+        "title": "Deep Focused Work",
+        "description": "Enter a distraction-free state with built-in timers. Measure your success and build unbreakable habits."
+      },
+      {
+        "title": "AI Intelligence",
+        "description": "Let our AI prioritize your day. Get smart suggestions on what to tackle next based on your behavior."
+      }
+    ],
+    "skip": "Skip",
+    "next": "Next",
+    "getStarted": "Get Started"
+  },
+  "home": {
+    "activeTasks": "Active Tasks",
+    "smartSuggestions": "Smart Suggestions",
+    "productivityScore": "Productivity Score",
+    "successRate": "Success Rate",
+    "savedHours": "Saved Hours",
+    "viewAll": "VIEW ALL",
+    "askAi": "Ask AI",
+    "greetingUser": "Hello, {{name}}!",
+    "noActiveTasks": "No active tasks. Take some rest!",
+    "newItem": "New Task"
+  },
+  "tasks": {
+    "todayFocus": "Today's Focus",
+    "completedOf": "{{completed}} of {{total}} tasks completed",
+    "filters": {
+      "today": "TODAY",
+      "upcoming": "UPCOMING",
+      "completed": "COMPLETED"
+    },
+    "emptyState": "All caught up! Time to recharge.",
+    "new": "New Task",
+    "titlePlaceholder": "What needs to be done?",
+    "priority": {
+      "low": "LOW",
+      "medium": "MEDIUM",
+      "high": "HIGH"
+    }
+  },
+  "focus": {
+    "workMode": "FOCUS SESSION",
+    "breakMode": "SHORT BREAK",
+    "currentFocus": "CURRENT FOCUS",
+    "ambience": "AMBIENCE SOUND",
+    "sessionComplete": "Focus Session Complete!",
+    "breakOver": "Break Over!",
+    "sessionBody": "Great job staying focused. Take a well-deserved break.",
+    "breakBody": "Time to get back into the flow.",
+    "summaryTitle": "Great Session!",
+    "summaryButton": "Take a Short Break"
+  },
+  "settings": {
+    "title": "Settings",
+    "groups": {
+      "general": "General",
+      "productivity": "Productivity",
+      "aiAssistant": "AI Assistant",
+      "account": "Account"
+    },
+    "items": {
+      "darkMode": "Dark Mode",
+      "notifications": "Notifications",
+      "language": "Language",
+      "focusDuration": "Focus Duration",
+      "aiFrequency": "AI Frequency",
+      "personalization": "Personalization",
+      "privacy": "Data Privacy",
+      "updateName": "Update Name",
+      "changePassword": "Change Password",
+      "logout": "Log Out"
+    },
+    "languageOptions": {
+      "en": "English (US)",
+      "id": "Bahasa Indonesia"
+    },
+    "modals": {
+      "updateName": {
+        "title": "Update Name",
+        "placeholder": "Your full name"
+      },
+      "changePassword": {
+        "title": "Change Password",
+        "oldPassword": "Current Password",
+        "newPassword": "New Password",
+        "confirmPassword": "Confirm New Password"
+      },
+      "messages": {
+        "success": "Updated successfully!",
+        "error": "Update failed. Please try again.",
+        "passwordMismatch": "Passwords do not match."
+      }
+    }
+  }
+}

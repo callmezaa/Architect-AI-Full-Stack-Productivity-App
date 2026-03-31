@@ -1,0 +1,131 @@
+{
+  "common": {
+    "loading": "Memuat...",
+    "error": "Kesalahan",
+    "save": "Simpan",
+    "cancel": "Batal",
+    "update": "Perbarui",
+    "submit": "Kirim",
+    "confirm": "Konfirmasi",
+    "success": "Berhasil!"
+  },
+  "auth": {
+    "welcomeBack": "Selamat Datang Kembali",
+    "loginSubtitle": "Masukkan detail Anda untuk mengakses dasbor.",
+    "emailLabel": "Alamat Email",
+    "passwordLabel": "Kata Sandi",
+    "forgotPassword": "Lupa Kata Sandi?",
+    "signIn": "Masuk",
+    "noAccount": "Belum punya akun?",
+    "createOne": "Buat akun baru",
+    "createAccount": "Buat Akun",
+    "registerSubtitle": "Bergabunglah dengan lingkaran produktivitas elit.",
+    "fullName": "Nama Lengkap",
+    "signUp": "Daftar",
+    "haveAccount": "Sudah punya akun?",
+    "logIn": "Masuk",
+    "fieldsRequired": "Harap isi semua bidang"
+  },
+  "onboarding": {
+    "slides": [
+      {
+        "title": "Atur Pikiran Anda",
+        "description": "Ambil tugas dan catatan secara instan. Jaga struktur hidup Anda tanpa beban kognitif berlebih."
+      },
+      {
+        "title": "Kerja Fokus Mendalam",
+        "description": "Masuki kondisi bebas gangguan dengan pengatur waktu bawaan. Ukur keberhasilan dan bangun kebiasaan yang tak terhentikan."
+      },
+      {
+        "title": "Kecerdasan AI",
+        "description": "Biarkan AI kami memprioritaskan hari Anda. Dapatkan saran cerdas tentang apa yang harus dikerjakan selanjutnya berdasarkan perilaku Anda."
+      }
+    ],
+    "skip": "Lewati",
+    "next": "Lanjut",
+    "getStarted": "Mulai Sekarang"
+  },
+  "home": {
+    "activeTasks": "Tugas Aktif",
+    "smartSuggestions": "Saran Pintar",
+    "productivityScore": "Skor Produktivitas",
+    "successRate": "Tingkat Keberhasilan",
+    "savedHours": "Jam yang Dihemat",
+    "viewAll": "LIHAT SEMUA",
+    "askAi": "Tanya AI",
+    "greetingUser": "Halo, {{name}}!",
+    "noActiveTasks": "Tidak ada tugas aktif. Istirahat sejenak!",
+    "newItem": "Tugas Baru"
+  },
+  "tasks": {
+    "todayFocus": "Fokus Hari Ini",
+    "completedOf": "{{completed}} dari {{total}} tugas selesai",
+    "filters": {
+      "today": "HARI INI",
+      "upcoming": "MENDATANG",
+      "completed": "SELESAI"
+    },
+    "emptyState": "Semua selesai! Waktunya isi energi.",
+    "new": "Tugas Baru",
+    "titlePlaceholder": "Apa yang perlu dikerjakan?",
+    "priority": {
+      "low": "RENDAH",
+      "medium": "SEDANG",
+      "high": "TINGGI"
+    }
+  },
+  "focus": {
+    "workMode": "SESI FOKUS",
+    "breakMode": "ISTIRAHAT PENDEK",
+    "currentFocus": "FOKUS SAAT INI",
+    "ambience": "SUARA AMBIENS",
+    "sessionComplete": "Sesi Fokus Selesai!",
+    "breakOver": "Istirahat Selesai!",
+    "sessionBody": "Kerja bagus tetap fokus. Ambil istirahat yang layak.",
+    "breakBody": "Waktunya kembali ke alur kerja.",
+    "summaryTitle": "Sesi yang Hebat!",
+    "summaryButton": "Ambil Istirahat Pendek"
+  },
+  "settings": {
+    "title": "Pengaturan",
+    "groups": {
+      "general": "Umum",
+      "productivity": "Produktivitas",
+      "aiAssistant": "Asisten AI",
+      "account": "Akun"
+    },
+    "items": {
+      "darkMode": "Mode Gelap",
+      "notifications": "Notifikasi",
+      "language": "Bahasa",
+      "focusDuration": "Durasi Fokus",
+      "aiFrequency": "Frekuensi AI",
+      "personalization": "Personalisasi",
+      "privacy": "Privasi Data",
+      "updateName": "Perbarui Nama",
+      "changePassword": "Ubah Kata Sandi",
+      "logout": "Keluar"
+    },
+    "languageOptions": {
+      "en": "English (US)",
+      "id": "Bahasa Indonesia"
+    },
+    "modals": {
+      "updateName": {
+        "title": "Ubah Nama",
+        "placeholder": "Nama lengkap Anda"
+      },
+      "changePassword": {
+        "title": "Ubah Kata Sandi",
+        "oldPassword": "Kata Sandi Saat Ini",
+        "newPassword": "Kata Sandi Baru",
+        "confirmPassword": "Konfirmasi Kata Sandi Baru"
+      },
+      "messages": {
+        "success": "Berhasil diperbarui!",
+        "error": "Gagal diperbarui. Silakan coba lagi.",
+        "passwordMismatch": "Kata sandi tidak cocok."
+      }
+    }
+  }
+}
