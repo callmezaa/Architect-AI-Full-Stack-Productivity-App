@@ -100,7 +100,7 @@ const FabItem = ({ onPress }: { onPress: () => void }) => {
 const styles = StyleSheet.create({
   wrapper: {
     position: 'absolute',
-    bottom: Platform.OS === 'ios' ? 34 : 20,
+    bottom: Platform.OS === 'ios' ? 42 : 32,
     width: width,
     alignItems: 'center',
     zIndex: 1000,

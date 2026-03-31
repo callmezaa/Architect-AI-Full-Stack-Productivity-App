@@ -177,7 +177,7 @@ const styles = StyleSheet.create({
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
-    paddingBottom: 40,
+    paddingBottom: 120,
   },
   controlsWrapper: {
     marginTop: Spacing.xl,

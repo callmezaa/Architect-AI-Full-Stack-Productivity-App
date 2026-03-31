@@ -22,7 +22,7 @@ function AppContent() {
   React.useEffect(() => {
     const timeout = setTimeout(() => {
       setIsTimerDone(true);
-    }, 2500);
+    }, 10000);
     return () => clearTimeout(timeout);
   }, []);
 

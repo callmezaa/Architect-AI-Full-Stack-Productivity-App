@@ -20,6 +20,29 @@
 
 ---
 
+## 📱 App Previews
+
+### ✨ The Onboarding Experience
+| Onboarding 1 | Onboarding 2 | Onboarding 3 |
+| :---: | :---: | :---: |
+| <img src="mobile/assets/screenshots/onboarding-1.png" width="220"> | <img src="mobile/assets/screenshots/onboarding-2.png" width="220"> | <img src="mobile/assets/screenshots/onboarding-3.png" width="220"> |
+
+### 🛠️ Core Dashboard & Focus
+| Homepage | Task Management | AI Smart Chat |
+| :---: | :---: | :---: |
+| <img src="mobile/assets/screenshots/homepage.png" width="220"> | <img src="mobile/assets/screenshots/taskpage.png" width="220"> | <img src="mobile/assets/screenshots/aichatpage.png" width="220"> |
+
+| Focus Timer | App Settings | Splash Screen |
+| :---: | :---: | :---: |
+| <img src="mobile/assets/screenshots/focuspage.png" width="220"> | <img src="mobile/assets/screenshots/settingspage.png" width="220"> | <img src="mobile/assets/screenshots/splashcreen.png" width="220"> |
+
+### 🔐 Authentication Flow
+| Login Page | Register Page |
+| :---: | :---: |
+| <img src="mobile/assets/screenshots/loginpage.png" width="220"> | <img src="mobile/assets/screenshots/registerpage.png" width="220"> |
+
+---
+
 ## 🏗️ Technical Architecture
 
 ```text
