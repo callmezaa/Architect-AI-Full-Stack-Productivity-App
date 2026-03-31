@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# IDE / Editor
+.vscode/
+.idea/
+.DS_Store
+
+# Environment / Secrets
+.env
+.env.local
+backend/.env
+
+# Native
+mobile/ios/
+mobile/android/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Debug logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+pip-log.txt
